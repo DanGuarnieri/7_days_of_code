@@ -47,8 +47,11 @@ Visualização dos dados por meio de gráficos (barras, linhas) para identificar
 ## 📂 Estrutura do Projeto
 
 📁 data/ → Dados brutos e tratados
+
 📁 pipelines/ → Cadernos de análise por dia
+
 📄 requirements.txt → Bibliotecas para execução
+
 📄 README.md → Este arquivo
 
 ---
