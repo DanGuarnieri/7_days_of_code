@@ -25,6 +25,21 @@ Tratamento de dados ausentes, padronização de formatos e categorização de co
 Criação de métricas como total de empréstimos, exemplares únicos por ano e por hora, e preparação dos dados para visualizações.
 Visualização dos dados por meio de gráficos (barras, linhas) para identificar padrões de demanda ao longo do tempo (por ano e por hora).
 
+
+### ✅ Dia 4: Análise exploratória de dados e Variáveis categóricas
+Criar categorização dos dados e iniciar as análises por caracteristicas como Discretas, Contínuas, Nominais e Ordinais  
+
+
+### ✅ Dia 5: Análise exploratória de dados e Boxplot
+Desenvolver análises e agrupamentos mais avançados e direcionados com objetivo de obter insights com o gráfico Bloxplot
+
+
+### ✅ Dia 6: JSON, Excel e Pivot_table
+Importar novos arquivos Json e Excel para criação de dados preditivos, e pivot_tables para melhores análises.
+
+
+### ✅ Dia 7: Customização de tabelas
+Criação de Análises percentuais e visual HTML para apresentação com estilo.
 ---
 
 ## 📦 Ferramentas Utilizadas
@@ -32,6 +47,7 @@ Visualização dos dados por meio de gráficos (barras, linhas) para identificar
 - Python 🐍
 - Pandas
 - Matplotlib
+- seaborn
 - Jupyter Notebook / VSCode
 
 ---
